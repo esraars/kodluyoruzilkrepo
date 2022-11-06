@@ -2,7 +2,7 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Proje Resmi](https://resimlink.com/-dCsk4xgwfLu)
+![Proje Resmi](<a href="https://resimlink.com/-dCsk4xgwfLu" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/-dCsk4xgwfLu.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>)
 
 # Installation
 
