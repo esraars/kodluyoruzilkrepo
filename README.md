@@ -2,7 +2,7 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Proje Resim](https://r.resimlink.com/Meh7Vq.jpg)
+![Proje Resim](file:///C:/Users/90553/Downloads/readmefoto.html)
 
 ## Installation
 
