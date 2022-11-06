@@ -2,7 +2,7 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-[Lorem picsum gorsel]()
+[Lorem picsum gorsel](/id/{image}https://picsum.photos/id/237/200/300)
 
 # Installation
 
