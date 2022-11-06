@@ -2,8 +2,6 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-[![image](https://r.resimlink.com/Meh7Vq.jpg)](https://resimlink.com/Meh7Vq)
-
 ## Installation
 
 
@@ -30,3 +28,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+https://app.patika.dev/esraarslann
